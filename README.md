@@ -1,0 +1,2 @@
+# comps
+about the chems
